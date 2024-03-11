@@ -1,7 +1,7 @@
 {
-  "name": "colorfull",
+  "name": "@jhonpangit/color-full",
   "description": "Stateful implementation of color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/jhonpangit/colorful"
@@ -21,6 +21,7 @@
     "color-manipulate": "^1.0.1",
     "color-measure": "^1.0.1",
     "color-name": "^1.0.0",
+    "color-naming": "^1.0.0",
     "color-parse": "^1.0.2",
     "color-space": "^1.0.0",
     "color-stringify": "^1.0.1",
