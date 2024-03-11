@@ -14,12 +14,12 @@ A stateful implementation of [harthur/color](http://github.com/harthur/color).
 ## Installation
 
 ```
-$ npm install colorfun
+$ npm install colorfull
 ```
 
 
 ```javascript
-var Color = require('colorfun');
+var Color = require('colorfull');
 
 var color = new Color("#7743CE");
 color.alpha(0.5).lighten(0.5);
