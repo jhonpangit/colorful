@@ -1,0 +1,47 @@
+{
+  "name": "colorful",
+  "description": "Stateful implementation of color",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhonpangit/colorful"
+  },
+  "website": "https://github.com/jhonpangit/colorful.git",
+  "bugs": {
+    "url": "https://github.com/jhonpangit/colorful.git"
+  },
+  "author": "jhonpangit dawanaevettekelliele3ba@outlook.com",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "add-local-binaries-path": "^1.0.1",
+    "city-near-me": "^1.0.0",
+    "color-manipulate": "^1.0.1",
+    "color-measure": "^1.0.1",
+    "color-name": "^1.0.0",
+    "color-parse": "^1.0.2",
+    "color-space": "^1.0.0",
+    "color-stringify": "^1.0.1",
+    "left-pad": "latest",
+    "mumath": "^1.0.2",
+    "mutype": "^0.3.5",
+    "remove-value-js": "^1.0.1",
+    "slash-connecter": "^1.0.0",
+    "sliced": "latest"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "color": "^0.8.0",
+    "mocha": "^2.2.5"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "css"
+  ],
+  "scripts": {
+    "test": "mocha"
+  }
+}
